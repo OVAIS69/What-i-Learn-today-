@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base theming */
+:root {
+  --bg: #fff;
+  --txt: #0f0f14;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--txt);
+  overflow-x: hidden;
+}
+
+/* Blossom texture + subtle grain overlay for cinematic softness */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(1200px 600px at 10% -10%, rgba(255,173,196,0.35), transparent),
+    radial-gradient(1200px 600px at 90% 110%, rgba(216,180,254,0.30), transparent),
+    repeating-radial-gradient(circle at 10% 20%, rgba(255,255,255,0.02) 0, rgba(255,255,255,0.02) 2px, transparent 3px, transparent 8px);
+  mix-blend-mode: screen;
+  z-index: 0;
+}
+
+/* Glass panel helper */
+.glass {
+  @apply bg-white/10 backdrop-blur-xl ring-1 ring-white/20 rounded-2xl shadow-glow;
+}
+
+/* Petal svg color */
+.petal-fill {
+  fill: #ffadc4;
+}
+
