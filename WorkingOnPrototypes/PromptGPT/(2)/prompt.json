@@ -1,0 +1,139 @@
+[
+    {
+        "category": "Agency",
+        "title": "Analyze Lead Generation Data",
+        "prompt_text": "What are the lead generation techniques that yield the highest results for {COMPANY NAME} within the time frame of {TIME FRAME}, and how can they be customized to specifically target {TARGET AUDIENCE} residing in {GEOGRAPHIC REGION}?",
+        "tags": [
+            "lead generation",
+            "data analysis"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Assistant",
+        "title": "Providing Travel Insurance Options",
+        "prompt_text": "What travel insurance options does {PERSON OF POSSESSION} have for a trip to {DESTINATION} from {START_DATE} until {END_DATE}?",
+        "tags": [
+            "travel",
+            "insurance"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Business",
+        "title": "Writing Performance Reports",
+        "prompt_text": "What specific industry/field should the performance report encompass in terms of key metrics and data points?",
+        "tags": [
+            "performance report",
+            "metrics"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Copywriting",
+        "title": "Summarizing Customer Feedback",
+        "prompt_text": "Can you please furnish a concise overview of the customer feedback pertaining to the {product/service}, utilizing the provided data: {Feedback Data}?",
+        "tags": [
+            "customer feedback",
+            "summary"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "HR",
+        "title": "Managing Leadership Shadowing Initiatives",
+        "prompt_text": "What factors should be taken into account when creating a leadership shadowing initiative for the {department} within my organization?",
+        "tags": [
+            "leadership",
+            "HR",
+            "training"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Marketing",
+        "title": "Optimizing for Mobile Devices",
+        "prompt_text": "What {cutting-edge / innovative / unconventional} {design techniques / UI patterns / development frameworks} can I implement to {optimize / enhance / future-proof} my website for {emerging / next-gen / 5G} mobile devices?",
+        "tags": [
+            "mobile",
+            "web design",
+            "optimization"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Productivity",
+        "title": "Recommend Local Events",
+        "prompt_text": "What are a few {EVENT CATEGORY} events that will take place in {LOCATION} soon, which might capture the interest of someone who appreciates {INTERESTS}?",
+        "tags": [
+            "events",
+            "local",
+            "recommendations"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Real-Estate",
+        "title": "Developing Sales Compensation Plans",
+        "prompt_text": "\"How can I {MONITOR/EVALUATE/ADJUST} the {EFFICACY/EFFECTIVENESS/PERFORMANCE} of my sales compensation plan {OVER TIME/PERIODICALLY} to {ENSURE/OPTIMIZE} {SALES PERFORMANCE/RETENTION} through {REAL-TIME REPORTING/DATA ANALYTICS/PREDICTIVE MODELLING} and {CONTINUOUS FEEDBACK/PERFORMANCE REVIEWS/SURVEYS}?\"",
+        "tags": [
+            "sales",
+            "compensation",
+            "real estate"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Sales",
+        "title": "Writing User-Centric Product FAQs",
+        "prompt_text": "What inquiries do customers typically have regarding {product or service}? Are you capable of offering precise and succinct responses that rectify any concerns that customers might possess?",
+        "tags": [
+            "sales",
+            "FAQs",
+            "customer support"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Startup",
+        "title": "Ensuring Compliance with Influencer Marketing Regulations",
+        "prompt_text": "What are the precise {LEGAL REQUIREMENTS} governing influencer marketing in {COUNTRY/REGION} and how can I guarantee adherence to these, particularly in relation to {SPECIFIC PLATFORMS/SOCIAL MEDIA CHANNELS}?",
+        "tags": [
+            "compliance",
+            "influencer marketing"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Support",
+        "title": "Designing Chatbots for Sales Support",
+        "prompt_text": "What are the optimal methods for formulating a sales {chatbot/assistant} that possesses the ability to {address customer inquiries/render suggestions regarding products/facilitate sales closure}, and what strategies can we employ to {personalize/modify} the chatbot's replies to {accommodate/embody} the distinctive requirements and preferences of our {specific demographic/patron base}?",
+        "tags": [
+            "support",
+            "chatbot",
+            "sales"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Text-to-Image",
+        "title": "Anime Girls",
+        "prompt_text": "A girl posing for a photo, Lisa Frank aesthetic, nostalgic 90s anime style",
+        "tags": [
+            "anime",
+            "image generation"
+        ],
+        "source": "Contentify AI"
+    },
+    {
+        "category": "Web-Development",
+        "title": "Write Project Risk Assessment",
+        "prompt_text": "Working on a fresh {kind of project}, known as {project name}, I am in need of performing a risk analysis. Assistance is sought to recognize potential risks and evaluate their influence on {project objective}. Furthermore, I am interested in acquiring knowledge about the most effective methods employed for carrying out a risk assessment.",
+        "tags": [
+            "project management",
+            "risk assessment",
+            "web dev"
+        ],
+        "source": "Contentify AI"
+    }
+]
