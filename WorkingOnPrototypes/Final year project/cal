@@ -1,10 +1,4 @@
-from PIL import Image, ImageDraw, ImageFont
 
-# Create a blank white image
-img = Image.new("RGB", (1200, 1600), "white")
-draw = ImageDraw.Draw(img)
-
-# Define font
 try:
     font = ImageFont.truetype("arial.ttf", 20)
 except:
