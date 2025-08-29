@@ -1,13 +1,4 @@
 
-    "105": (950, 1100, 1100, 1200),
-    "106": (950, 950, 1100, 1050),
-    "101\n(Lab)": (450, 1100, 650, 1200),
-}
-
-# Draw the rooms
-for name, (x1, y1, x2, y2) in rooms.items():
-    draw.rectangle([x1, y1, x2, y2], outline="black", width=2)
-    draw.text(((x1+x2)//2, (y1+y2)//2), name, fill="black", anchor="mm", font=font)
 
 # Draw central circular area
 draw.ellipse([400, 600, 800, 1000], outline="black", width=3)
