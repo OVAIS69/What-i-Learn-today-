@@ -1,0 +1,28 @@
+import React from 'react';
+import FullCalendar from '@fullcalendar/react';
+import dayGridPlugin from '@fullcalendar/daygrid';
+import { mockBookings } from '../data/mockBookings'; // Your fake data
+
+function CalendarView() {
+  // Format your mock data for the calendar library
+  const events = mockBookings.map(booking => ({
+    title: booking.event_title,
+    start: booking.start_time,
+    end: booking.end_time,
+    // Add custom properties for color coding
+    extendedProps: {
+      roomId: booking.room_id,
+      status: 'booked'
+    }
+  }));
+
+  return (
+    <div className="calendar-container">
+      <FullCalendar
+        plugins={[dayGridPlugin]}
+        initialView="dayGridMonth"
+        events={events}
+      />
+    </div>
+  );
+}
