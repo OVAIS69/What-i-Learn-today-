@@ -1,7 +1,6 @@
 
 
 
-
   return (
     <div className="calendar-container">
       <FullCalendar
