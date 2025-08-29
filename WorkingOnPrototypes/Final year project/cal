@@ -1,17 +1,4 @@
 
-try:
-    font = ImageFont.truetype("arial.ttf", 20)
-except:
-    font = ImageFont.load_default()
-
-# Draw rectangles (rooms) based on rough layout positions from sketch
-rooms = {
-    "Y-001\n(Seminar Hall)": (50, 1400, 200, 1500),
-    "Y-002": (250, 1400, 400, 1500),
-    "Y-003\n(Reading Room)": (450, 1400, 650, 1500),
-    "Y-102": (700, 1400, 850, 1500),
-    "103": (950, 1400, 1100, 1500),
-    "104\n(Staff Room)": (950, 1250, 1100, 1350),
     "105": (950, 1100, 1100, 1200),
     "106": (950, 950, 1100, 1050),
     "101\n(Lab)": (450, 1100, 650, 1200),
