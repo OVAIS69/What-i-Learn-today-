@@ -1,7 +1,3 @@
-import React from 'react';
-import FullCalendar from '@fullcalendar/react';
-import dayGridPlugin from '@fullcalendar/daygrid';
-import { mockBookings } from '../data/mockBookings'; // Your fake data
 
 function CalendarView() {
   // Format your mock data for the calendar library
