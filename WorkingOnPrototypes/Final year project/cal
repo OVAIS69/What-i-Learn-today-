@@ -1,7 +1,4 @@
 
-
-
-  return (
     <div className="calendar-container">
       <FullCalendar
         plugins={[dayGridPlugin]}
