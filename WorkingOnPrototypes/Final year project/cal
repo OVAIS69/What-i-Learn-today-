@@ -1,14 +1,3 @@
 
-
-
-
-  return (
-    <div className="calendar-container">
-      <FullCalendar
-        plugins={[dayGridPlugin]}
-        initialView="dayGridMonth"
-        events={events}
-      />
-    </div>
   );
 }
