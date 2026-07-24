@@ -1,0 +1,10 @@
+bool isConnected() {
+        vector<bool> visited(vertices, false);
+        dfsRecursive(0, visited);
+        
+        for (bool v : visited) {
+            if (!v) return false;
+        }
+        return true;
+    }
+    
