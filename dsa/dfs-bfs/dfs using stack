@@ -1,0 +1,21 @@
+ void dfsIterative(int start) {
+        vector<bool> visited(vertices, false);
+        stack<int> st;
+        st.push(start);
+        
+        while (!st.empty()) {
+            int current = st.top();
+            st.pop();
+            
+            if (!visited[current]) {
+                visited[current] = true;
+                cout << current << " ";
+                
+                for (int neighbor : adjList[current]) {
+                    if (!visited[neighbor]) {
+                        st.push(neighbor);
+                    }
+                }
+            }
+        }
+    }
