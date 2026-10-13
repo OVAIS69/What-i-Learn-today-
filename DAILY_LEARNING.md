@@ -15,3 +15,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Memory-efficient data transformation in idiomatic Python.
 - **Key Takeaway:** Generators yield items lazily on demand, drastically reducing memory footprint when processing large datasets.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-10-13 22:26:25 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
