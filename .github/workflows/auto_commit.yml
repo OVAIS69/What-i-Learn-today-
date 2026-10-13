@@ -1,0 +1,45 @@
+name: Daily Auto Committer
+
+on:
+  schedule:
+    # Runs 5 times a day (UTC): ~8:45 AM, 12:45 PM, 4:45 PM, 8:45 PM, 12:45 AM IST
+    - cron: '17 3,7,11,15,19 * * *'
+
+  workflow_dispatch:
+    inputs:
+      commit_count:
+        description: 'Number of commits to generate'
+        required: true
+        default: '1'
+        type: choice
+        options:
+          - '1'
+          - '2'
+          - '3'
+          - '4'
+          - '5'
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Auto Committer
+        env:
+          GIT_NAME: 'Ovais'
+          GIT_EMAIL: 'ovais.0404@gmail.com'
+          COMMIT_COUNT: ${{ github.event.inputs.commit_count || '1' }}
+        run: |
+          node scripts/auto_commit.js --count=${COMMIT_COUNT} --push
