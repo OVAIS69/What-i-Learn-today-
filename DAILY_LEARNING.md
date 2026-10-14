@@ -30,3 +30,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-10-14 22:18:38 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
