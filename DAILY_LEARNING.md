@@ -20,3 +20,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-10-14 08:44:02 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
