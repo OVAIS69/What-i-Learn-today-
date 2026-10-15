@@ -45,3 +45,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
 - **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
 
+### 📌 Fast & Slow Pointers (Floyd's Cycle Detection) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-15 22:19:38 UTC`
+- **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
+- **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
+
