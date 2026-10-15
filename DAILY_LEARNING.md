@@ -35,3 +35,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Binary Search Beyond Arrays (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-15 08:19:04 UTC`
+- **Overview:** Applying binary search on monotonic answer spaces (Binary Search on Answer).
+- **Key Takeaway:** Useful for optimization problems such as Koko Eating Bananas, Capacity to Ship Packages within D Days, and Painter's Partition.
+
