@@ -40,3 +40,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Applying binary search on monotonic answer spaces (Binary Search on Answer).
 - **Key Takeaway:** Useful for optimization problems such as Koko Eating Bananas, Capacity to Ship Packages within D Days, and Painter's Partition.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-10-15 15:36:06 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
