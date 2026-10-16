@@ -60,3 +60,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 Git Stash & Worktrees (Git & Developer Tools)
+- **Timestamp:** `2026-10-16 22:06:09 UTC`
+- **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
+- **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
+
