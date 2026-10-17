@@ -65,3 +65,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-10-17 07:49:00 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
