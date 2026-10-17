@@ -70,3 +70,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
 - **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
 
+### 📌 Context Managers & The `with` Statement (Python Programming)
+- **Timestamp:** `2026-10-17 14:13:11 UTC`
+- **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
+- **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
+
