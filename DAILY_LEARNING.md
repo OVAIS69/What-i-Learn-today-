@@ -75,3 +75,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
 - **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
 
+### 📌 Python `collections` Module (Python Programming)
+- **Timestamp:** `2026-10-17 17:52:05 UTC`
+- **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
+- **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
+
