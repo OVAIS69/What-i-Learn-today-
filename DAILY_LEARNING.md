@@ -95,3 +95,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
 - **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
 
+### 📌 Git Stash & Worktrees (Git & Developer Tools)
+- **Timestamp:** `2026-10-18 18:06:18 UTC`
+- **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
+- **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
+
