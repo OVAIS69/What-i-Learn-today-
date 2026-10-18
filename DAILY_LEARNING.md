@@ -85,3 +85,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
 - **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
 
+### 📌 Trie (Prefix Tree) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-18 08:02:42 UTC`
+- **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
+- **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
+
