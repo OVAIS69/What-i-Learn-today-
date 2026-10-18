@@ -100,3 +100,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Fast & Slow Pointers (Floyd's Cycle Detection) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-18 21:31:34 UTC`
+- **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
+- **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
+
