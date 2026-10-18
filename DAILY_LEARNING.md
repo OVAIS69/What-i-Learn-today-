@@ -90,3 +90,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
 - **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-10-18 14:35:12 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
