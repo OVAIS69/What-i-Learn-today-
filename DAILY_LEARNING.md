@@ -115,3 +115,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
 - **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
 
+### 📌 Python Decorators & Closures (Python Programming)
+- **Timestamp:** `2026-10-19 22:54:35 UTC`
+- **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
+- **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
+
