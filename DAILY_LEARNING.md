@@ -130,3 +130,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Level-order traversal using a FIFO queue to guarantee shortest path in unweighted graphs.
 - **Key Takeaway:** Time complexity is O(V + E). Perfect for maze routing, peer-to-peer network hops, and nearest-neighbor searches.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-10-20 22:18:35 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
