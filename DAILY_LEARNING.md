@@ -140,3 +140,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
 - **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
 
+### 📌 Binary Search Beyond Arrays (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-21 15:57:59 UTC`
+- **Overview:** Applying binary search on monotonic answer spaces (Binary Search on Answer).
+- **Key Takeaway:** Useful for optimization problems such as Koko Eating Bananas, Capacity to Ship Packages within D Days, and Painter's Partition.
+
