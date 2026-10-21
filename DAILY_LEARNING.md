@@ -135,3 +135,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 Min-Heap and Max-Heap (Priority Queue) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-21 08:35:12 UTC`
+- **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
+- **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
+
