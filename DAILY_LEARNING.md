@@ -155,3 +155,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
 - **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
 
+### 📌 Two-Pointer Technique (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-22 15:53:17 UTC`
+- **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
+- **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
+
