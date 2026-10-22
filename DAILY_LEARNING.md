@@ -150,3 +150,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
 - **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
 
+### 📌 `__slots__` Optimization in Python Classes (Python Programming)
+- **Timestamp:** `2026-10-22 08:37:32 UTC`
+- **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
+- **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
+
