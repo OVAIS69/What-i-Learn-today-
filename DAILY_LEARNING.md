@@ -175,3 +175,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Python Decorators & Closures (Python Programming)
+- **Timestamp:** `2026-10-23 22:12:00 UTC`
+- **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
+- **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
+
