@@ -195,3 +195,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Stack that maintains elements strictly increasing or decreasing.
 - **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-10-24 21:36:54 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
