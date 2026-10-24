@@ -190,3 +190,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
 - **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
 
+### 📌 Monotonic Stack (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-24 18:10:08 UTC`
+- **Overview:** Stack that maintains elements strictly increasing or decreasing.
+- **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
+
