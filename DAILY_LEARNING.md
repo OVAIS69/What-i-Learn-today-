@@ -205,3 +205,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
 - **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
 
+### 📌 Context Managers & The `with` Statement (Python Programming)
+- **Timestamp:** `2026-10-25 14:57:09 UTC`
+- **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
+- **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
+
