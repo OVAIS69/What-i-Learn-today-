@@ -215,3 +215,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Exhaustive exploration along branches before backtracking upon reaching invalid states.
 - **Key Takeaway:** Used in N-Queens, Sudoku solvers, subset generation, and finding connected components.
 
+### 📌 Monotonic Stack (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-25 21:48:12 UTC`
+- **Overview:** Stack that maintains elements strictly increasing or decreasing.
+- **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
+
