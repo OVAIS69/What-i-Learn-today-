@@ -200,3 +200,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 Trie (Prefix Tree) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-25 08:26:05 UTC`
+- **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
+- **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
+
