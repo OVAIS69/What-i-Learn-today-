@@ -210,3 +210,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
 - **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
 
+### 📌 Depth-First Search (DFS) & Backtracking (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-25 18:24:44 UTC`
+- **Overview:** Exhaustive exploration along branches before backtracking upon reaching invalid states.
+- **Key Takeaway:** Used in N-Queens, Sudoku solvers, subset generation, and finding connected components.
+
