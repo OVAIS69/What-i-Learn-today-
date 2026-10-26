@@ -225,3 +225,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
 - **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
 
+### 📌 Trie (Prefix Tree) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-26 17:23:40 UTC`
+- **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
+- **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
+
