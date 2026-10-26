@@ -220,3 +220,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Stack that maintains elements strictly increasing or decreasing.
 - **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
 
+### 📌 Two-Pointer Technique (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-26 08:56:32 UTC`
+- **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
+- **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
+
