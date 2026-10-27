@@ -235,3 +235,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
 - **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
 
+### 📌 Dynamic Programming: Memoization vs Tabulation (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-27 09:00:38 UTC`
+- **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
+- **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
+
