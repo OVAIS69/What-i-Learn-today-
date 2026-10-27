@@ -245,3 +245,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Type Hinting & Static Typing with `typing` (Python Programming)
+- **Timestamp:** `2026-10-27 22:57:12 UTC`
+- **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
+- **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
+
