@@ -240,3 +240,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
 - **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
 
+### 📌 Git Stash & Worktrees (Git & Developer Tools)
+- **Timestamp:** `2026-10-27 16:39:47 UTC`
+- **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
+- **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
+
