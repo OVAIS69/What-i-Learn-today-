@@ -260,3 +260,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
 - **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
 
+### 📌 Min-Heap and Max-Heap (Priority Queue) (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-28 23:14:14 UTC`
+- **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
+- **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
+
