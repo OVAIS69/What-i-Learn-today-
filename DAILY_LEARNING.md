@@ -255,3 +255,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Sliding Window Pattern (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-28 17:10:29 UTC`
+- **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
+- **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
+
