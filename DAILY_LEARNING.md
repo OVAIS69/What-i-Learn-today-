@@ -250,3 +250,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
 - **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-10-28 09:40:31 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
