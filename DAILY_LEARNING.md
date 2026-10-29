@@ -275,3 +275,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Level-order traversal using a FIFO queue to guarantee shortest path in unweighted graphs.
 - **Key Takeaway:** Time complexity is O(V + E). Perfect for maze routing, peer-to-peer network hops, and nearest-neighbor searches.
 
+### 📌 Two-Pointer Technique (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-29 23:18:15 UTC`
+- **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
+- **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
+
