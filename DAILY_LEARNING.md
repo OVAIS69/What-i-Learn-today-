@@ -270,3 +270,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
 - **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
 
+### 📌 Breadth-First Search (BFS) for Shortest Paths (Data Structures & Algorithms)
+- **Timestamp:** `2026-10-29 17:26:29 UTC`
+- **Overview:** Level-order traversal using a FIFO queue to guarantee shortest path in unweighted graphs.
+- **Key Takeaway:** Time complexity is O(V + E). Perfect for maze routing, peer-to-peer network hops, and nearest-neighbor searches.
+
