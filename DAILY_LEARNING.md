@@ -280,3 +280,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
 - **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-10-30 10:01:39 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
