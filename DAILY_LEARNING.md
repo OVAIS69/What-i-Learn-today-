@@ -285,3 +285,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-10-30 17:01:50 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
