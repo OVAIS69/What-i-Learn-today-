@@ -300,3 +300,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 Python Decorators & Closures (Python Programming)
+- **Timestamp:** `2026-10-31 16:06:26 UTC`
+- **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
+- **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
+
