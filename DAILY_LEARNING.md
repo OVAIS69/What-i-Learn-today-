@@ -295,3 +295,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Exhaustive exploration along branches before backtracking upon reaching invalid states.
 - **Key Takeaway:** Used in N-Queens, Sudoku solvers, subset generation, and finding connected components.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-10-31 09:39:38 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
