@@ -305,3 +305,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
 - **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-10-31 22:29:31 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
