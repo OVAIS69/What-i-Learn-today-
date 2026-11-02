@@ -330,3 +330,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
 - **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-11-02 20:47:30 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
