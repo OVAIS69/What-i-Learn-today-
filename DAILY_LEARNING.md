@@ -335,3 +335,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 Monotonic Stack (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-03 10:53:50 UTC`
+- **Overview:** Stack that maintains elements strictly increasing or decreasing.
+- **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
+
