@@ -345,3 +345,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
 - **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
 
+### 📌 Fast & Slow Pointers (Floyd's Cycle Detection) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-03 23:59:12 UTC`
+- **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
+- **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
+
