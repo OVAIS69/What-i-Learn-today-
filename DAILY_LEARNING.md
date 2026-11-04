@@ -350,3 +350,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
 - **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-11-04 10:55:58 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
