@@ -355,3 +355,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 Type Hinting & Static Typing with `typing` (Python Programming)
+- **Timestamp:** `2026-11-04 18:39:19 UTC`
+- **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
+- **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
+
