@@ -370,3 +370,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
 - **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-11-05 18:45:18 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
