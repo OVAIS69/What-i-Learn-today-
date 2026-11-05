@@ -360,3 +360,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
 - **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
 
+### 📌 Fast & Slow Pointers (Floyd's Cycle Detection) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-05 00:22:50 UTC`
+- **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
+- **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
+
