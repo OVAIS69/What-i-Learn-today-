@@ -385,3 +385,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
 - **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
 
+### 📌 Breadth-First Search (BFS) for Shortest Paths (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-06 17:58:07 UTC`
+- **Overview:** Level-order traversal using a FIFO queue to guarantee shortest path in unweighted graphs.
+- **Key Takeaway:** Time complexity is O(V + E). Perfect for maze routing, peer-to-peer network hops, and nearest-neighbor searches.
+
