@@ -380,3 +380,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
 - **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
 
+### 📌 Two-Pointer Technique (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-06 10:53:26 UTC`
+- **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
+- **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
+
