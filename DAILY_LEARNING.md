@@ -405,3 +405,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
 - **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
 
+### 📌 Dynamic Programming: Memoization vs Tabulation (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-07 22:46:12 UTC`
+- **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
+- **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
+
