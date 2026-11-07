@@ -395,3 +395,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
 - **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-11-07 10:10:35 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
