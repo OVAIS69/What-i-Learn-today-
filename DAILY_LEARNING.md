@@ -400,3 +400,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 Dynamic Programming: Memoization vs Tabulation (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-07 16:50:40 UTC`
+- **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
+- **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
+
