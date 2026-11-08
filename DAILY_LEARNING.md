@@ -410,3 +410,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Top-down with recursion & cache vs bottom-up iterative table filling.
 - **Key Takeaway:** Eliminates redundant subproblems in overlapping structures, turning exponential O(2^N) complexity into polynomial O(N).
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-11-08 10:24:00 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
