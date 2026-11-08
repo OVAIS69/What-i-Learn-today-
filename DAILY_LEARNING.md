@@ -415,3 +415,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Breadth-First Search (BFS) for Shortest Paths (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-08 17:04:03 UTC`
+- **Overview:** Level-order traversal using a FIFO queue to guarantee shortest path in unweighted graphs.
+- **Key Takeaway:** Time complexity is O(V + E). Perfect for maze routing, peer-to-peer network hops, and nearest-neighbor searches.
+
