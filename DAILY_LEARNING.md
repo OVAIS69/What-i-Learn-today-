@@ -425,3 +425,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Stack that maintains elements strictly increasing or decreasing.
 - **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-11-09 11:33:05 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
