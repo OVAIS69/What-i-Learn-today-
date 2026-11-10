@@ -435,3 +435,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Python Decorators & Closures (Python Programming)
+- **Timestamp:** `2026-11-10 11:13:24 UTC`
+- **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
+- **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
+
