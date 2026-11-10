@@ -440,3 +440,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
 - **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
 
+### 📌 Fast & Slow Pointers (Floyd's Cycle Detection) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-10 18:41:09 UTC`
+- **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
+- **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
+
