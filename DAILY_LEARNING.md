@@ -450,3 +450,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
 - **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
 
+### 📌 Min-Heap and Max-Heap (Priority Queue) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-11 10:58:09 UTC`
+- **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
+- **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
+
