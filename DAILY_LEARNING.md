@@ -445,3 +445,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Two pointers traversing a linked list at different speeds (1x and 2x).
 - **Key Takeaway:** Guarantees O(N) time and O(1) space to detect cycles and locate the middle node or cycle entrance.
 
+### 📌 Type Hinting & Static Typing with `typing` (Python Programming)
+- **Timestamp:** `2026-11-11 00:02:33 UTC`
+- **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
+- **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
+
