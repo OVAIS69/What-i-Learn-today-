@@ -470,3 +470,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Exhaustive exploration along branches before backtracking upon reaching invalid states.
 - **Key Takeaway:** Used in N-Queens, Sudoku solvers, subset generation, and finding connected components.
 
+### 📌 Binary Search Beyond Arrays (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-12 18:57:12 UTC`
+- **Overview:** Applying binary search on monotonic answer spaces (Binary Search on Answer).
+- **Key Takeaway:** Useful for optimization problems such as Koko Eating Bananas, Capacity to Ship Packages within D Days, and Painter's Partition.
+
