@@ -460,3 +460,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
 - **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
 
+### 📌 Context Managers & The `with` Statement (Python Programming)
+- **Timestamp:** `2026-11-12 01:32:18 UTC`
+- **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
+- **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
+
