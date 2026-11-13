@@ -485,3 +485,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
 - **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
 
+### 📌 CAP Theorem in Distributed Systems (Backend & System Design)
+- **Timestamp:** `2026-11-13 18:31:10 UTC`
+- **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
+- **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
+
