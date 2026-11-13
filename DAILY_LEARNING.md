@@ -480,3 +480,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
 - **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
 
+### 📌 Trie (Prefix Tree) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-13 10:59:15 UTC`
+- **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
+- **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
+
