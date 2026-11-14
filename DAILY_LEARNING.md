@@ -505,3 +505,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
 - **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
 
+### 📌 Python Decorators & Closures (Python Programming)
+- **Timestamp:** `2026-11-14 22:59:10 UTC`
+- **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
+- **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
+
