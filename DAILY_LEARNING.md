@@ -490,3 +490,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
 - **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-11-14 00:20:34 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
