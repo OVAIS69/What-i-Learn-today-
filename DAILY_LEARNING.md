@@ -495,3 +495,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Context Managers & The `with` Statement (Python Programming)
+- **Timestamp:** `2026-11-14 10:26:40 UTC`
+- **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
+- **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
+
