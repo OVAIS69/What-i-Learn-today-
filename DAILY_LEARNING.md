@@ -500,3 +500,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
 - **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
 
+### 📌 `__slots__` Optimization in Python Classes (Python Programming)
+- **Timestamp:** `2026-11-14 17:09:13 UTC`
+- **Overview:** Explicit attribute declaration preventing dynamic `__dict__` creation.
+- **Key Takeaway:** Reduces RAM usage by up to 40-50% for instances when instantiating millions of lightweight data objects.
+
