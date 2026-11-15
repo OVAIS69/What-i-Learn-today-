@@ -510,3 +510,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
 - **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
 
+### 📌 Trie (Prefix Tree) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-15 10:54:17 UTC`
+- **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
+- **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
+
