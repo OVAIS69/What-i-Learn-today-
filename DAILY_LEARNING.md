@@ -515,3 +515,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
 - **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
 
+### 📌 Monotonic Stack (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-15 17:42:43 UTC`
+- **Overview:** Stack that maintains elements strictly increasing or decreasing.
+- **Key Takeaway:** Solves Next Greater Element, Daily Temperatures, and Largest Rectangle in Histogram in linear O(N) time.
+
