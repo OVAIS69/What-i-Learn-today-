@@ -525,3 +525,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
 - **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
 
+### 📌 REST API Best Practices & Idempotency (Backend & System Design)
+- **Timestamp:** `2026-11-16 11:18:21 UTC`
+- **Overview:** Designing predictable endpoints using proper HTTP verbs and idempotent methods (GET, PUT, DELETE).
+- **Key Takeaway:** Using idempotency keys in payment and order processing prevents double charges during network retries.
+
