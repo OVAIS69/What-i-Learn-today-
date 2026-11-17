@@ -535,3 +535,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Tree structure specialized in fast retrieval of string keys with common prefixes.
 - **Key Takeaway:** Enables O(L) prefix lookups and autocomplete suggestions where L is the length of the query string.
 
+### 📌 Git Stash & Worktrees (Git & Developer Tools)
+- **Timestamp:** `2026-11-17 11:53:19 UTC`
+- **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
+- **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
+
