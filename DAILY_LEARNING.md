@@ -540,3 +540,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Depth-First Search (DFS) & Backtracking (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-17 22:52:42 UTC`
+- **Overview:** Exhaustive exploration along branches before backtracking upon reaching invalid states.
+- **Key Takeaway:** Used in N-Queens, Sudoku solvers, subset generation, and finding connected components.
+
