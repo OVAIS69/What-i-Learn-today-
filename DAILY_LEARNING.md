@@ -550,3 +550,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
 - **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
 
+### 📌 Type Hinting & Static Typing with `typing` (Python Programming)
+- **Timestamp:** `2026-11-18 22:36:23 UTC`
+- **Overview:** Adding typing annotations (Optional, Union, Dict, Callable) for static code analysis.
+- **Key Takeaway:** Improves IDE autocompletion, self-documents codebase, and catches subtle type errors early with Mypy.
+
