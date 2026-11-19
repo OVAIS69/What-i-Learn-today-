@@ -560,3 +560,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Higher-order functions modifying behavior of wrapped functions without altering code.
 - **Key Takeaway:** Commonly used for logging, timing execution, authentication checks, and memoization with @functools.lru_cache.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-11-19 22:40:14 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
