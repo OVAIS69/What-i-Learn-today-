@@ -565,3 +565,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Min-Heap and Max-Heap (Priority Queue) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-20 11:40:30 UTC`
+- **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
+- **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
+
