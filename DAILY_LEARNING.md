@@ -570,3 +570,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
 - **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-11-20 22:14:42 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
