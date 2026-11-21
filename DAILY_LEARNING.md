@@ -575,3 +575,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
 - **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
 
+### 📌 Two-Pointer Technique (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-21 11:01:57 UTC`
+- **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
+- **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
+
