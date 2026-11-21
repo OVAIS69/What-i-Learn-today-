@@ -585,3 +585,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
 - **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
 
+### 📌 Python `collections` Module (Python Programming)
+- **Timestamp:** `2026-11-21 23:48:14 UTC`
+- **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
+- **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
+
