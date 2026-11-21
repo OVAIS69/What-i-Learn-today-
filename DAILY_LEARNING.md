@@ -580,3 +580,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Optimized search in sorted arrays reducing O(N^2) brute-force to O(N) linear time.
 - **Key Takeaway:** Used widely for pair-sum problems, palindrome verification, and partition schemes like in QuickSort.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-11-21 17:57:53 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
