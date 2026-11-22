@@ -590,3 +590,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
 - **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
 
+### 📌 Redis Caching Strategies (Backend & System Design)
+- **Timestamp:** `2026-11-22 11:25:49 UTC`
+- **Overview:** Cache-Aside, Write-Through, and Write-Behind patterns for low-latency data access.
+- **Key Takeaway:** Setting sensible TTLs and eviction policies (LRU/LFU) prevents cache stampede and stale data propagation.
+
