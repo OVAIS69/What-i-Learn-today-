@@ -600,3 +600,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Applying binary search on monotonic answer spaces (Binary Search on Answer).
 - **Key Takeaway:** Useful for optimization problems such as Koko Eating Bananas, Capacity to Ship Packages within D Days, and Painter's Partition.
 
+### 📌 Git Interactive Rebase & History Cleanup (Git & Developer Tools)
+- **Timestamp:** `2026-11-23 12:42:28 UTC`
+- **Overview:** Squashing, rewording, and reordering commits with `git rebase -i`.
+- **Key Takeaway:** Helps maintain a clean, readable linear git commit history before merging feature branches into main.
+
