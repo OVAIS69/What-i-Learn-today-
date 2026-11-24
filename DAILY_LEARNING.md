@@ -610,3 +610,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
 - **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
 
+### 📌 List Comprehensions & Generator Expressions (Python Programming)
+- **Timestamp:** `2026-11-24 13:43:38 UTC`
+- **Overview:** Memory-efficient data transformation in idiomatic Python.
+- **Key Takeaway:** Generators yield items lazily on demand, drastically reducing memory footprint when processing large datasets.
+
