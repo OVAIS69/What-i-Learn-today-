@@ -620,3 +620,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Context-switching techniques without dirtying working trees or losing uncommitted progress.
 - **Key Takeaway:** `git worktree` allows checking out multiple branches simultaneously in separate directories.
 
+### 📌 Sliding Window Pattern (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-25 12:56:56 UTC`
+- **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
+- **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
+
