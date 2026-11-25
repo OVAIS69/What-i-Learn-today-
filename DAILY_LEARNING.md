@@ -625,3 +625,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
 - **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
 
+### 📌 CAP Theorem in Distributed Systems (Backend & System Design)
+- **Timestamp:** `2026-11-25 23:37:27 UTC`
+- **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
+- **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
+
