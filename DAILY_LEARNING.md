@@ -630,3 +630,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** A distributed system can guarantee at most two out of Consistency, Availability, and Partition Tolerance.
 - **Key Takeaway:** Since network partitions are inevitable in real networks, modern distributed systems trade off between CP and AP models.
 
+### 📌 Python `collections` Module (Python Programming)
+- **Timestamp:** `2026-11-26 12:35:04 UTC`
+- **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
+- **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
+
