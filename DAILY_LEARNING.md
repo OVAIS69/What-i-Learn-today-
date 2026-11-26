@@ -635,3 +635,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Specialized container datatypes: `defaultdict`, `Counter`, `deque`, and `namedtuple`.
 - **Key Takeaway:** `deque` provides O(1) appends and pops from both ends, significantly outperforming Python lists for queue operations.
 
+### 📌 Sliding Window Pattern (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-26 23:51:20 UTC`
+- **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
+- **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
+
