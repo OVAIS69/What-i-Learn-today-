@@ -645,3 +645,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
 - **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
 
+### 📌 Min-Heap and Max-Heap (Priority Queue) (Data Structures & Algorithms)
+- **Timestamp:** `2026-11-27 23:27:38 UTC`
+- **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
+- **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
+
