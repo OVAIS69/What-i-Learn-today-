@@ -640,3 +640,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Maintains a subsegment of an array or string that expands and contracts based on conditions.
 - **Key Takeaway:** Ideal for finding maximum subarray sum of size K, longest substring without repeating characters, and minimum window substrings.
 
+### 📌 Context Managers & The `with` Statement (Python Programming)
+- **Timestamp:** `2026-11-27 12:21:30 UTC`
+- **Overview:** Automated setup and teardown for resource management implementing `__enter__` and `__exit__`.
+- **Key Takeaway:** Prevents file descriptor leaks, handles database connections safely, and simplifies thread locking.
+
