@@ -650,3 +650,8 @@ Continuous tracking of daily programming insights, Data Structures & Algorithms 
 - **Overview:** Complete binary tree maintaining heap property for O(1) access to min/max and O(log N) insertion/deletion.
 - **Key Takeaway:** Fundamental for Dijkstra's shortest path algorithm, Huffman coding, and finding top K frequent elements.
 
+### 📌 Database Indexing & B-Trees (Backend & System Design)
+- **Timestamp:** `2026-11-28 11:46:10 UTC`
+- **Overview:** Accelerating search queries from full table scans O(N) to balanced tree traversals O(log N).
+- **Key Takeaway:** Composite indexes must adhere to the leftmost prefix rule to be effectively utilized by the query planner.
+
